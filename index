@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Audio Genially</title>
+</head>
+
+<body>
+  <h1>Audio Genially</h1>
+
+  <audio controls>
+    <source src="musique.mp3" type="audio/mpeg">
+    Votre navigateur ne prend pas en charge la lecture audio.
+  </audio>
+</body>
+</html>
